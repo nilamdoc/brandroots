@@ -53,7 +53,7 @@
  * stored outside of your app folder.
  */
 define('LITHIUM_APP_PATH', dirname(dirname(__DIR__)));
-
+include_once ('/home/prowess/brandroots.com.php');
 /**
  * This is the path to the class libraries used by your application, and must contain a copy of the
  * Lithium core.  By default, this directory is named `libraries`, and resides in the same
